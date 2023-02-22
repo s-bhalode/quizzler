@@ -1,4 +1,9 @@
 {
   "name": "quizler",
-  "displayName": "quizler"
+  "displayName": "quizler",
+  "extra": {
+    "eas": {
+      "projectId": "7a9e6887-bacd-426f-aa5e-cc256688b482"
+    }
+  }
 }

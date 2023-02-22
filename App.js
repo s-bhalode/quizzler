@@ -6,6 +6,7 @@ import Home from './screens/home';
 import Quiz from './screens/quiz';
 import Result from './screens/result';
 
+
 const App = () => {
   return (
     <>
